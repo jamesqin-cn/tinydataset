@@ -1,0 +1,6 @@
+cache
+dist
+tinydataset.egg-info/
+.vscode
+*.pyc
+__pycache_
